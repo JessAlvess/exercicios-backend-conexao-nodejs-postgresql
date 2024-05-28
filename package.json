@@ -1,0 +1,27 @@
+{
+  "name": "exercicios-backend-conexao-nodejs-postgresql",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./01/src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessAlvess/exercicios-backend-conexao-nodejs-postgresql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessAlvess/exercicios-backend-conexao-nodejs-postgresql/issues"
+  },
+  "homepage": "https://github.com/JessAlvess/exercicios-backend-conexao-nodejs-postgresql#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
